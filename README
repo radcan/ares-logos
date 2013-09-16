@@ -1,21 +1,22 @@
-These logos were drawn in Scalable Vector Graphics (SVG) format [2] for RAC by
-Tyler Tidman VA3DGN.  Wherever possible, the Portable Network Graphics (PNG)
-format [3] is now being used for all generated bitmaps.  The chosen fonts,
-"DejaVu Sans Bold" and "DejaVu Sans" [4] are provided gratis under a free,
-open-source license.
+These logos were drawn in Scalable Vector Graphics (SVG) format [2] for Radio
+Amateurs of Canada (RAC) by Tyler Tidman VA3DGN.  Wherever possible, the
+Portable Network Graphics (PNG) format [3] is now being used for all generated
+bitmaps.  The chosen fonts, "DejaVu Sans Bold" and "DejaVu Sans" [4] are
+provided gratis under a free, open-source license.
 
-Inspiration for these logos was provided by the SVG version of the ARRL ARES
-logo posted on Wikipedia [1] by ??? and the old RAC logos donated by James Ewen
-VE6SRV.  French translations were provided by Tyler Tidman VA3DGN and verified
-by Serge Langois VE2AWR and Claude Lalande VE2LCF.  Inuktitut (Inuit)
-translations were provided by Jamie Savikataaq and verified by TBD.  "Amateur
-Radio Emergency Service" => tuavirnaqtulirinirmut tusarutialaat => "TBD".
+Inspiration for these logos was provided by the SVG version of the Amateur
+Radio Relay League (ARRL) ARES logo posted on Wikipedia [1] by "McNeight" and
+the old RAC logos donated by James Ewen VE6SRV.  French translations were
+provided by Tyler Tidman VA3DGN and verified by Serge Langois VE2AWR and Claude
+Lalande VE2LCF.  Inuktitut (Inuit) translations were provided by Jamie
+Savikataaq and verified by TBD.  "Amateur Radio Emergency Service" =>
+tuavirnaqtulirinirmut tusarutialaat => "TBD".
 
 Software that was used to create and work with these files:
   - GNU Make (3.81) [5]
-  - Inkscape (0.46, 0.47, 0.48) [6]
-  - Imagemagick (6.3.7, 6.6.0-4) [7]
-  - Debian Linux (6.0, 7.0) [8]
+  - Inkscape (0.48, 0.47, 0.46) [6]
+  - Imagemagick (6.6.0-4, 6.3.7) [7]
+  - Debian Linux (7.x, 6.x) [8]
 
 Type "make" to magically generate bitmap versions from the source vector .svg
 files.
