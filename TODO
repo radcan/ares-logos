@@ -1,13 +1,20 @@
 Correct slight overlap in RAC central cartouches
+Get the Inuktitut retranslations back to English verified by someone
 
 ---
 
-In Inuktitut, "Amateur Radio Emergency Service" translates to the following:
-ᑐᐊᕕᕐᓇᕐᒃᑐᓕᕆᓂᕐᒧᑦ ᑐᓴᕈᑎᐊᓛᑦ tuavirnaqtulirinirmut tusarutialaat
+The Canadian ARES logos use the "DejaVu Sans" Normal and Bold fonts. These do
+not appear correctly if viewing the SVG embedded directly in a web page. This
+needs to be fixed.
 
-It would be nice to confirm via a second party that this translation is valid.
-It would also be nice to show the exact meaning in English of each of these
-words.
+---
+
+The official US ARES logo seems to use a font very similar to the cover of QST
+Magazine. Contacting persons at the ARRL responsible for the website, logos and
+magazine did not yield this information as it appears to have been forgotten.
+
+It would be really swell to find out what the actual name of the font is and
+what kind of license it has.
 
 ---
 
@@ -25,15 +32,6 @@ aircraft. It is thought that this person is likely Neil McNeight.
 
 ---
 
-The official US ARES logo seems to use a font very similar to the cover of QST
-Magazine. Contacting persons at the ARRL responsible for the website, logos and
-magazine did not yield this information as it appears to have been forgotten.
-
-It would be really swell to find out what the actual name of the font is and
-what kind of license it has.
-
----
-
 The US ARES SVG logo file seems to have been derived from the original AI file
 (which seems to no longer be available from ARRL). Inkscape seems to think that
 this file can be simplified without compromising the resulting
@@ -44,19 +42,3 @@ default size of the image from what it is now to a larger and more pixely size
 like 600x600 (like the Canadian ARES SVGs).
 
 This should be done for both the full-colour and black-and-white versions.
-
----
-
-Embedding the Canadian ARES logos in a web page using the object data="foo.svg"
-type="image/svg+xml" width="300" height="300" trick does not appear to allow it
-to scale correctly if the width and height are smaller than the original
-(600x600).
-
-This will likely involve either scaling the SVG down a bit or figuring out why
-this information is not being handled correctly by the file output by Inkscape.
-
----
-
-The Canadian ARES logos use the "DejaVu Sans" Normal and Bold fonts. These do
-not appear correctly if viewing the SVG embedded directly in a web page. This
-needs to be fixed.
