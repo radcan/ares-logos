@@ -1,1 +1,62 @@
 Correct slight overlap in RAC central cartouches
+
+---
+
+In Inuktitut, "Amateur Radio Emergency Service" translates to the following:
+ᑐᐊᕕᕐᓇᕐᒃᑐᓕᕆᓂᕐᒧᑦ ᑐᓴᕈᑎᐊᓛᑦ tuavirnaqtulirinirmut tusarutialaat
+
+It would be nice to confirm via a second party that this translation is valid.
+It would also be nice to show the exact meaning in English of each of these
+words.
+
+---
+
+The original contributor of the US ARES logo at
+http://en.wikipedia.org/wiki/File:ARES_Color_Logo.svg was done by someone
+holding the Wikipedia username "McNeight". It would be really nice to provide
+some proper attribution and thanks for this individual as their work provided
+the inspiration for the Canadian ARES logos.
+
+No full name or callsign exists in the original file and no contact information
+was provided on Wikipedia. No active callsign seems to exist for the surname
+"McNeight". The other pages submitted by the user seem to indicate that they
+may live in Seattle, Washington and know a fair bit about various commercial
+aircraft. It is thought that this person is likely Neil McNeight.
+
+---
+
+The official US ARES logo seems to use a font very similar to the cover of QST
+Magazine. Contacting persons at the ARRL responsible for the website, logos and
+magazine did not yield this information as it appears to have been forgotten.
+
+It would be really swell to find out what the actual name of the font is and
+what kind of license it has.
+
+---
+
+The US ARES SVG logo file seems to have been derived from the original AI file
+(which seems to no longer be available from ARRL). Inkscape seems to think that
+this file can be simplified without compromising the resulting
+image--presumably stuff like unused layer information, redundant nodes, etc.
+
+While this cleanup is being performed, it would also be worthwhile to set the
+default size of the image from what it is now to a larger and more pixely size
+like 600x600 (like the Canadian ARES SVGs).
+
+This should be done for both the full-colour and black-and-white versions.
+
+---
+
+Embedding the Canadian ARES logos in a web page using the object data="foo.svg"
+type="image/svg+xml" width="300" height="300" trick does not appear to allow it
+to scale correctly if the width and height are smaller than the original
+(600x600).
+
+This will likely involve either scaling the SVG down a bit or figuring out why
+this information is not being handled correctly by the file output by Inkscape.
+
+---
+
+The Canadian ARES logos use the "DejaVu Sans" Normal and Bold fonts. These do
+not appear correctly if viewing the SVG embedded directly in a web page. This
+needs to be fixed.
