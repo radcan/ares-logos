@@ -33,6 +33,7 @@ Savikataaq and verified by TBD.
 ᑐᐊᕕᕐᓇᕐᒃᑐᓕᕆᓂᕐᒧᑦ ᑐᓴᕈᑎᐊᓛᑦ (tuavirnaqtulirinirmut tusarutialaat) => TBD
 
 Software that was used to create and work with these files:
+
 * Inkscape_ (0.48.5, 0.48, 0.47, 0.46)
 * Imagemagick_ (6.6.0-4, 6.3.7)
 * `GNU Make`_ (4.0, 3.81)
