@@ -1,8 +1,9 @@
-ares-logos
-==========
-
 Logos for the Amateur Radio Emergency Service (ARES)
+====================================================
+
 Logos pour le Service d'Urgence Radio Amateur (SURA)
+====================================================
+
 
 These logos were drawn in `Scalable Vector Graphics`_ (SVG_) format for `Radio
 Amateurs of Canada`_ (RAC_) by Tyler Tidman VA3DGN.  Wherever possible, the
