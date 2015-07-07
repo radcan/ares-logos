@@ -20,23 +20,26 @@ gratis under a free, open-source license.
 .. _Portable Network Graphics: PNG_
 .. _PNG: http://libpng.org/pub/png
 
+French translations were provided by Tyler Tidman VA3DGN and verified by Serge
+Langois VE2AWR and Claude Lalande VE2LCF.  Inuktitut (Inuit) translations were
+provided by Jamie Savikataaq and verified by TBD.
+
 Inspiration for these logos was provided by the SVG version of the US Amateur
-Radio Relay League (ARRL) ARES logo posted on Wikipedia by "McNeight_" and the
-old `RAC Logos`_ donated by James Ewen VE6SRV.  French translations were
-provided by Tyler Tidman VA3DGN and verified by Serge Langois VE2AWR and Claude
-Lalande VE2LCF.  Inuktitut (Inuit) translations were provided by Jamie
-Savikataaq and verified by TBD.
+Radio Relay League (ARRL) ARES logo posted on Wikipedia by username "McNeight_"
+and the old `RAC Logos`_ donated by James Ewen VE6SRV.
 
 .. _RAC Logos: http://rac.ca/en/rac/services/logos
 .. _McNeight: http://en.wikipedia.org/wiki/File:ARES_Color_Logo.svg
 
-"Amateur Radio Emergency Service" =>
-ᑐᐊᕕᕐᓇᕐᒃᑐᓕᕆᓂᕐᒧᑦ ᑐᓴᕈᑎᐊᓛᑦ (tuavirnaqtulirinirmut tusarutialaat) => TBD
+::
+
+  "Amateur Radio Emergency Service" =>
+    ᑐᐊᕕᕐᓇᕐᒃᑐᓕᕆᓂᕐᒧᑦ ᑐᓴᕈᑎᐊᓛᑦ (tuavirnaqtulirinirmut tusarutialaat)
 
 Software that was used to create and work with these files:
 
 * Inkscape_ (0.48.5, 0.48, 0.47, 0.46)
-* Imagemagick_ (6.6.0-4, 6.3.7)
+* Imagemagick_ (6.8.9-9, 6.6.0-4, 6.3.7)
 * `GNU Make`_ (4.0, 3.81)
 * `Debian GNU/Linux`_ (8.x, 7.x, 6.x)
 
