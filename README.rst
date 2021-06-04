@@ -21,8 +21,8 @@ gratis under a free, open-source license.
 .. _PNG: http://libpng.org/pub/png
 
 French translations were provided by Tyler Tidman VA3DGN and verified by Serge
-Langois VE2AWR and Claude Lalande VE2LCF.  Inuktitut (Inuit) translations were
-provided by Jamie Savikataaq and verified by TBD.
+Langois VE2AWR and Claude Lalande VE2LCF.  Inuktitut translations were provided
+by Jamie Savikataaq and verified by TBD.
 
 Inspiration for these logos was provided by the SVG version of the US Amateur
 Radio Relay League (ARRL) ARES logo posted on Wikipedia by username "McNeight_"
